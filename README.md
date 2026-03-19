@@ -42,9 +42,14 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
+<img width="1280" height="791" alt="image" src="https://github.com/user-attachments/assets/8b851c8b-4b25-41bf-a2a9-5f2c0050f86b" />
 
+## CALCULATION:
+<img width="1280" height="797" alt="image" src="https://github.com/user-attachments/assets/bb8d29f7-278b-4f34-b3d5-154cb3ef52de" />
 
 ## GRAPH:
-
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/b9629eed-bbb6-4902-ac23-f5b8e7a3e8de" />
 
 ## RESULT:                   
+Thus,the differential amplifiers are designed and successfully tested using Op-Amp IC741
+
